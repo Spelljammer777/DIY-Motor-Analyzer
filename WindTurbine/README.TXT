@@ -1,0 +1,1 @@
+You must install java first. Then you can double click the Windturbine.jar file to launch program.
